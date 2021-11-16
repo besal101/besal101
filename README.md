@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=besal101&label=Profile%20views&color=0e75b6&style=flat" alt="besal101" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing with AI**
+- 🌱 Programming is not about what you know; Its about what you can figure out**
 
 - 👨‍💻 All of my projects are available at [bishalkhatri.com](bishalkhatri.com)
 
-- 📝 I regularly write articles on [bishalkhatri.com](bishalkhatri.com)
+- 📝 I regularly write articles on [bishalkhatri.com/blog](bishalkhatri.com/blog)
 
-- 💬 Ask me about **react, nextjs , javascript & LOVE ❤️**
+- 💬 Experienced in **react, nextjs , javascript & php**
 
 - 📫 How to reach me **getbesal@outlook.com**
 
