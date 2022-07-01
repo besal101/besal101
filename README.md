@@ -11,7 +11,7 @@
 
 - 💬 Experienced in **react, nextjs , javascript & php**
 
-- 📫 How to reach me **getbesal@outlook.com**
+- 📫 How to reach me **hello@bishalkhatri.com**
 
 - 📄 Know about my experiences [bishalkhatri.com/resume](bishalkhatri.com/resume)
 
